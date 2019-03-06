@@ -1,0 +1,27 @@
+.blue {
+    font-size: 20px;
+    color: red;
+    border: 2px solid red;
+    background-color: blue;
+}
+
+.red {
+    font-size: 20px;
+    color: yellow;
+    border: 2px solid yellow;
+    background-color: red;
+}
+
+.yellow {
+    font-size: 20px;
+    color: blue;
+    border: 2px solid blue;
+    background-color: yellow;
+}
+
+/* .button1 {
+    font-size: 30px;
+    color: red;
+    border: 2px solid red;
+    background-color: blue;
+} */
