@@ -14,7 +14,6 @@ function respondToClick3(event) {
     event.target.classList.toggle('yellow');
 }
 
-
 targetButton1.addEventListener('click', respondToClick1);
 targetButton2.addEventListener('click', respondToClick2);
 targetButton3.addEventListener('click', respondToClick3);
